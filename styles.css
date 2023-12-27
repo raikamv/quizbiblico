@@ -1,0 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Diphylleia&family=Roboto:wght@100&display=swap");
+
+body {
+  background: rgb(158, 176, 224);
+}
+
+.container {
+  font-family: "Diphylleia";
+}
