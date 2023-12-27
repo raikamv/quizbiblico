@@ -16,7 +16,7 @@ function salvar() {
   if (respostaPerguntaDois === "galatas") {
     contador = contador + 1;
   }
-  debugger;
+
 
   const divRespostas = document.getElementById("resultado");
   divRespostas.innerHTML = "Total de acertos: " + contador;
